@@ -88,7 +88,7 @@ _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
 _*🧚‍♀️Enjoy your time with us!😊*_
 
-*©Qᴜᴇᴇɴ ᴋʏʟɪᴇ-ᴍᴅ ʙʏ ꜱᴀʜᴀꜱ ᴛᴇᴄʜッ* `;
+*©distributed by k29promax ッ* `;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/dbvfMrN/IMG-20240913-WA0043.jpg` }, caption: up })
 
