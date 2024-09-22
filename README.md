@@ -2,7 +2,7 @@
 <div align="center">
 
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=QUEEN+KYLIE+MD+WATSAPP+BOT)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=K29PROMAX-+MD+WATSAPP+BOT)](https://git.io/typing-svg)
 
 📍ＮＥＷ ＶＥＲＳＩＯＮ ＣＯＭＩＮＧ ＳＯＯＮ...📍
 
@@ -19,9 +19,9 @@
 
 <hr>
 
-👾ＣＲＥＡＴＥＤ ＢＹ ＳＡＨＡＳ ＴＥＣＨ👾
+👾ＣＲＥＡＴＥＤ ＢＹ Tapiwa Dhewa👾
 
-## HOW TO DEPLOY QUEEN-KYLIE-MD 👨‍💻
+## HOW TO DEPLOY K29promax_MD👨‍💻
 
 1) 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
 2) 𝚂𝙲𝙰𝙽 𝚃𝙷𝙴 𝙿𝙰𝙸𝚁 𝙲𝙾𝙳𝙴 𝚃𝙷𝙴𝙽 𝚆𝙸𝙻𝙻 𝙲𝙾𝙼𝙴 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝙸𝙳.
