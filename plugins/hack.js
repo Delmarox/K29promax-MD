@@ -12,7 +12,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const steps = [
             '💻 *HACK STARTING...* 💻',
             '',
-            '*forwarding your massages to K29PROMAX...*☠️
+            '*forwarding your massages to K29PROMAX...*☠️',
             '*Initializing hacking tools...* 🛠️',
             '*Connecting to remote servers...* 🌐',
             '',
